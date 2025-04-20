@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.10.1)  10 APR 2025 20:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.10.1)  20 APR 2025 12:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -483,9 +483,9 @@ Overfull \hbox (85.35828pt too wide) in paragraph at lines 15--15
 []|[]| 
  []
 
-File: profile3.jpg Graphic file (type jpg)
-<use profile3.jpg>
-Package pdftex.def Info: profile3.jpg  used on input line 15.
+File: profile2.jpg Graphic file (type jpg)
+<use profile2.jpg>
+Package pdftex.def Info: profile2.jpg  used on input line 15.
 (pdftex.def)             Requested size: 85.35826pt x 85.3439pt.
 ) (src/summary.tex
 
@@ -514,17 +514,16 @@ LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
 ) (src/skills.tex
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
 (Font)              scaled to size 6.0pt on input line 9.
-)
-(src/projects.tex
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 15.
+ine 12.
 
 (C:\Users\dinhduc0794\AppData\Roaming\MiKTeX\tex/latex/lato\ts1lato-tlf.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 15.
-
+(Font)              scaled to size 10.0pt on input line 12.
+)
+(src/projects.tex
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -542,7 +541,7 @@ s/dinhduc0794/AppData/Roaming/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}
 ee1.enc}{C:/Users/dinhduc0794/AppData/Roaming/MiKTeX/fonts/enc/dvips/fontawesom
 e5/fa5brands0.enc}{C:/Users/dinhduc0794/AppData/Roaming/MiKTeX/fonts/enc/dvips/
 lato/a_vc7epu.enc}{C:/Users/dinhduc0794/AppData/Roaming/MiKTeX/fonts/enc/dvips/
-lato/a_rt66h3.enc} <./profile3.jpg> <./HCMUT_official_logo.png>])
+lato/a_rt66h3.enc} <./profile2.jpg> <./HCMUT_official_logo.png>])
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -562,7 +561,7 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  15508 strings out of 475248
- 272462 string characters out of 5767610
+ 272526 string characters out of 5767610
  1948785 words of memory out of 5000000
  36758 multiletter control sequences out of 15000+600000
  604637 words of font info for 74 fonts, out of 8000000 for 9000
@@ -577,7 +576,7 @@ sers/dinhduc0794/AppData/Roaming/MiKTeX/fonts/type1/typoland/lato/Lato-Italic.p
 fb><C:/Users/dinhduc0794/AppData/Roaming/MiKTeX/fonts/type1/typoland/lato/Lato-
 Regular.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume.pdf (2 pages, 502083 bytes).
+Output written on resume.pdf (2 pages, 502366 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
