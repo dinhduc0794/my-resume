@@ -3,4 +3,4 @@ My personal CV written in LaTeX, showcasing my experience and skills in Computer
 
 ## 📎 View Resume (PDF)
 You can view or download the latest PDF version of my resume here:
-👉 [Click to view PDF](https://dinhduc0794.github.io/my-resume/resume.pdf)
+👉 [Click to view PDF](resume.pdf)
